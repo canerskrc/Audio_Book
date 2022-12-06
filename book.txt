@@ -1,0 +1,5 @@
+The cause of poor performance in machine learning is either overfitting or underfitting the data.
+
+In this post, you will discover the concept of generalization in machine learning and the problems of overfitting and underfitting that go along with it.
+
+Kick-start your project with my new book Master Machine Learning Algorithms, including step-by-step tutorials and the Excel Spreadsheet files for all examples.
